@@ -1,0 +1,212 @@
+#upperNav {
+    display: inline-block;
+    z-index: 5;
+    padding: 0.875em 2.375em 0.5625em 3em;
+    width: 100%;
+    height: 4.938em;
+    font-family: 'Rubik',Arial;
+    background-color: #333232;
+    box-shadow: 0 4px 10px 2px rgba(0,0,0,0.04);
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+#TeamBTN{
+    text-align: center;
+    display: inline-block;
+    margin-right: 3%;
+}
+#upperNav {
+    display: inline-block;
+    z-index: 5;
+    padding: 0.875em 2.375em 0.5625em 3em;
+    width: 100%;
+    height: 4.938em;
+    font-family: 'Rubik',Arial;
+    background-color: #333232;
+    box-shadow: 0 4px 10px 2px rgba(0,0,0,0.04);
+}
+#logo{
+    width: 8%;
+position: relative;
+left: 0%;
+top: -81%;
+}
+
+#loginBTN {
+    float: right;
+    margin-top: 1vh;
+    margin-right: 1%;
+}
+
+#registerBTN {
+    float: right;
+    margin-right: 1%;
+    margin-top: 1vh;
+}
+
+.font-weight-bold{
+    font-size: 4vh;
+    text-align: center;
+}
+.card{
+    width: 50%;
+height: 40vh;
+display: inline-block;
+position: relative;
+left: 20%;
+margin-top: 7%;
+
+}
+
+.Formcontain{
+    margin-top: 4%;
+}
+#roundTripLink{
+width: 30%;
+margin-right: 6%;
+margin-left: 6%;
+display: inline-block;
+font-weight: bold;
+color: rgb(55, 55, 83);
+}
+#roundTripLink:visited{
+background-color: rgb(69, 69, 180);
+}
+
+#oneWayLink{
+    width: 30%;
+    display: inline-block;
+    font-weight: bold;
+    color: rgb(55, 55, 83);
+}
+#oneWayLink:visited{
+background-color: rgb(69, 69, 180);
+}
+#passengersBTN{
+width: 10%;
+display: inline-block;
+margin-left: 3%;
+}
+
+#fromBTN{
+width:20%;
+display: inline-block;
+margin-left: 7%;
+margin-top: 4%;
+}
+
+#toBTN{
+width: 20%;
+display: inline-block;
+margin-left: 3%;
+margin-top: 4%;
+}
+
+.welcome{
+    height: 60vh;
+    width: 100%;
+    background-image: url('https://i.imgur.com/DI3R4LF.jpg');
+   
+}
+#leaving{
+    width: 40%;
+    display: inline-block;
+    margin-left: 4%;
+}
+#backDate{
+    width: 40%;
+    display: inline-block;
+    margin-left: 4%;
+}
+
+.Main {
+    width: 100%;
+    height: 100vh;
+    
+    
+}
+
+.registerSubmit {
+    box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    background: linear-gradient(to bottom, #768d87 5%, #2b4545 100%);
+    background-color: #768d87;
+    border-radius: 26px;
+    border: 2px solid #566963;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Georgia;
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 19px 27px;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #2b665e;
+    margin-left: 6%;
+}
+
+.registerSubmit:hover {
+    background: linear-gradient(to bottom, #2b4545 5%, #768d87 100%);
+    background-color: #2b4545;
+}
+.ALLBTN{
+    display: inline-block;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.registerSubmit:active {
+    position: relative;
+    top: 1px;
+}
+
+#oper {
+    margin-left: 40%;
+    margin-top: -3%;
+}
+.card {
+    width: 200px;
+    height:200px;
+    display: block;
+}
+.card h3{
+    font-size: 1rem;
+}
+
+.bottomContainer{
+width: 100%;
+background-color: brown;
+}
+
+#userName {
+    width: 30%;
+    margin-top: 3%;
+    background-color: darkseagreen;
+}
+
+#password {
+    width: 30%;
+    margin-top: 3%;
+    background-color: darkseagreen;
+}
+
+#email {
+    width: 30%;
+    margin-top: 3%;
+    background-color: darkseagreen;
+}
+
+.registerSubmit {
+    margin-top: 3%;
+}
+
+.form {
+    margin-top: -2%;
+    width: 40%;
+    position: relative;
+    top: 19%;
+    left: 1%;
+}
+.form-control{
+    margin-bottom: 2%;
+}
