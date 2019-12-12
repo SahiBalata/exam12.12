@@ -1,0 +1,21 @@
+//Create DATABASE:
+CREATE DATABASE tomerinc;
+
+//Create tables
+CREATE TABLE teams (
+    team_id int,
+    team_name varchar(255),
+   primary key(team_id)
+);
+
+
+CREATE TABLE meet (
+   id int auto_increment,
+   start varchar(255),
+   end varchar(255),
+   description varchar(255),
+ room varchar(255),
+ team_name varchar(255),
+ PRIMARY KEY (id)
+   
+);
